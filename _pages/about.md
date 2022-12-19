@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Candidate, Political Science, <a href='https://ps.ucdavis.edu/'>UC Davis</a>.
+subtitle: Ph.D. Candidate, Political Science, <a href='https://ps.ucdavis.edu/'>UC Davis</a>.
 
 profile:
   align: right
